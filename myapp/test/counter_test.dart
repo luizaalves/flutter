@@ -1,6 +1,6 @@
 // Import the test package and Counter class
 import 'package:test/test.dart';
-import 'package:myapp/Counter.dart'; //caminho da classe a ser testada
+import 'package:myapp/counter.dart'; //caminho da classe a ser testada
 
 void main() {
   /* Teste unitário
